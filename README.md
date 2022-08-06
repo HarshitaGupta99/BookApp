@@ -42,7 +42,7 @@ The user can view his dashboard, add books to wishlist , view different authors 
 ![Screenshot (16)](https://user-images.githubusercontent.com/110584170/182766146-f8ed6a2b-14e4-4908-848b-c515262e7651.png)
 
 
-#The user also has the option to edit profile
+# The user also has the option to edit profile
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/110584170/182765946-7fb226da-d5ae-4684-bbca-9b76b8f1daaa.png)
 
